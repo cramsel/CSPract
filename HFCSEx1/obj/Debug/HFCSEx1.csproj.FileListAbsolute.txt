@@ -1,0 +1,11 @@
+C:\Users\Calum\Documents\CSProjs\HFCSEx1\bin\Debug\HFCSEx1.exe.config
+C:\Users\Calum\Documents\CSProjs\HFCSEx1\bin\Debug\HFCSEx1.exe
+C:\Users\Calum\Documents\CSProjs\HFCSEx1\bin\Debug\HFCSEx1.pdb
+C:\Users\Calum\Documents\CSProjs\HFCSEx1\obj\Debug\HFCSEx1.csproj.AssemblyReference.cache
+C:\Users\Calum\Documents\CSProjs\HFCSEx1\obj\Debug\HFCSEx1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calum\Documents\CSProjs\HFCSEx1\obj\Debug\HFCSEx1.Form1.resources
+C:\Users\Calum\Documents\CSProjs\HFCSEx1\obj\Debug\HFCSEx1.Properties.Resources.resources
+C:\Users\Calum\Documents\CSProjs\HFCSEx1\obj\Debug\HFCSEx1.csproj.GenerateResource.cache
+C:\Users\Calum\Documents\CSProjs\HFCSEx1\obj\Debug\HFCSEx1.csproj.CoreCompileInputs.cache
+C:\Users\Calum\Documents\CSProjs\HFCSEx1\obj\Debug\HFCSEx1.exe
+C:\Users\Calum\Documents\CSProjs\HFCSEx1\obj\Debug\HFCSEx1.pdb
