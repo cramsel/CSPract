@@ -19,7 +19,7 @@ namespace HFCSEx1
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Contact List 1.0.\nWritten by Calum", "About");
+            AnotherClass.Pow();
         }
 
         private void peopleBindingNavigatorSaveItem_Click(object sender, EventArgs e)
