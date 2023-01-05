@@ -1,0 +1,11 @@
+C:\Users\Calum\Documents\CSProjs\HFCSColorChangeEx\bin\Debug\HFCSColorChangeEx.exe.config
+C:\Users\Calum\Documents\CSProjs\HFCSColorChangeEx\bin\Debug\HFCSColorChangeEx.exe
+C:\Users\Calum\Documents\CSProjs\HFCSColorChangeEx\bin\Debug\HFCSColorChangeEx.pdb
+C:\Users\Calum\Documents\CSProjs\HFCSColorChangeEx\obj\Debug\HFCSColorChangeEx.csproj.AssemblyReference.cache
+C:\Users\Calum\Documents\CSProjs\HFCSColorChangeEx\obj\Debug\HFCSColorChangeEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calum\Documents\CSProjs\HFCSColorChangeEx\obj\Debug\HFCSColorChangeEx.Form1.resources
+C:\Users\Calum\Documents\CSProjs\HFCSColorChangeEx\obj\Debug\HFCSColorChangeEx.Properties.Resources.resources
+C:\Users\Calum\Documents\CSProjs\HFCSColorChangeEx\obj\Debug\HFCSColorChangeEx.csproj.GenerateResource.cache
+C:\Users\Calum\Documents\CSProjs\HFCSColorChangeEx\obj\Debug\HFCSColorChangeEx.csproj.CoreCompileInputs.cache
+C:\Users\Calum\Documents\CSProjs\HFCSColorChangeEx\obj\Debug\HFCSColorChangeEx.exe
+C:\Users\Calum\Documents\CSProjs\HFCSColorChangeEx\obj\Debug\HFCSColorChangeEx.pdb
