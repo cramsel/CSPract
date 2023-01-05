@@ -23,9 +23,12 @@ namespace HFCSColorChangeEx
             if (checkBox == 0)
             {
                 MessageBox.Show("Box is not checked.");
-            } else
+            } else if (label1.BackColor == Color.Red)
             {
                 label1.BackColor = Color.Green;
+            } else
+            {
+                label1.BackColor = Color.Red;
             }
         }
 
