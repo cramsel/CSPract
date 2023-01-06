@@ -1,0 +1,11 @@
+C:\Users\Calum\Documents\CSProjs\HFCSColorEx2\bin\Debug\HFCSColorEx2.exe.config
+C:\Users\Calum\Documents\CSProjs\HFCSColorEx2\bin\Debug\HFCSColorEx2.exe
+C:\Users\Calum\Documents\CSProjs\HFCSColorEx2\bin\Debug\HFCSColorEx2.pdb
+C:\Users\Calum\Documents\CSProjs\HFCSColorEx2\obj\Debug\HFCSColorEx2.csproj.AssemblyReference.cache
+C:\Users\Calum\Documents\CSProjs\HFCSColorEx2\obj\Debug\HFCSColorEx2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calum\Documents\CSProjs\HFCSColorEx2\obj\Debug\HFCSColorEx2.Form1.resources
+C:\Users\Calum\Documents\CSProjs\HFCSColorEx2\obj\Debug\HFCSColorEx2.Properties.Resources.resources
+C:\Users\Calum\Documents\CSProjs\HFCSColorEx2\obj\Debug\HFCSColorEx2.csproj.GenerateResource.cache
+C:\Users\Calum\Documents\CSProjs\HFCSColorEx2\obj\Debug\HFCSColorEx2.csproj.CoreCompileInputs.cache
+C:\Users\Calum\Documents\CSProjs\HFCSColorEx2\obj\Debug\HFCSColorEx2.exe
+C:\Users\Calum\Documents\CSProjs\HFCSColorEx2\obj\Debug\HFCSColorEx2.pdb
