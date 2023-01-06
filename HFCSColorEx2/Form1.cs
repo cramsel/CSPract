@@ -12,7 +12,6 @@ namespace HFCSColorEx2
 {
     public partial class Form1 : Form
     {
-        int c = 0;
         public Form1()
         {
             InitializeComponent();
@@ -20,8 +19,18 @@ namespace HFCSColorEx2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            BackColor = Color.FromArgb(c, 255-c, c);
-            Application.DoEvents();
+            for (int c = 0; c <= 255; c++)
+            {
+                BackColor = Color.FromArgb(c, 255-c, c);
+                Application.DoEvents();
+                System.Threading.Thread.Sleep(3);
+            }
+            for (int c = 254; c>= 0; c--)
+            {
+                BackColor = Color.FromArgb(c, 255 - c, c);
+                Application.DoEvents();
+                System.Threading.Thread.Sleep(3);
+            }
         }
     }
 }
