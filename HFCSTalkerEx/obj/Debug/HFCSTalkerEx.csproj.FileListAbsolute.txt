@@ -1,0 +1,11 @@
+C:\Users\Calum\Documents\CSProjs\HFCSTalkerEx\bin\Debug\HFCSTalkerEx.exe.config
+C:\Users\Calum\Documents\CSProjs\HFCSTalkerEx\bin\Debug\HFCSTalkerEx.exe
+C:\Users\Calum\Documents\CSProjs\HFCSTalkerEx\bin\Debug\HFCSTalkerEx.pdb
+C:\Users\Calum\Documents\CSProjs\HFCSTalkerEx\obj\Debug\HFCSTalkerEx.csproj.AssemblyReference.cache
+C:\Users\Calum\Documents\CSProjs\HFCSTalkerEx\obj\Debug\HFCSTalkerEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calum\Documents\CSProjs\HFCSTalkerEx\obj\Debug\HFCSTalkerEx.Properties.Resources.resources
+C:\Users\Calum\Documents\CSProjs\HFCSTalkerEx\obj\Debug\HFCSTalkerEx.csproj.GenerateResource.cache
+C:\Users\Calum\Documents\CSProjs\HFCSTalkerEx\obj\Debug\HFCSTalkerEx.csproj.CoreCompileInputs.cache
+C:\Users\Calum\Documents\CSProjs\HFCSTalkerEx\obj\Debug\HFCSTalkerEx.exe
+C:\Users\Calum\Documents\CSProjs\HFCSTalkerEx\obj\Debug\HFCSTalkerEx.pdb
+C:\Users\Calum\Documents\CSProjs\HFCSTalkerEx\obj\Debug\HFCSTalkerEx.Form1.resources
