@@ -1,0 +1,11 @@
+C:\Users\Calum\Documents\CSProjs\HFCSVarTypeEx\bin\Debug\HFCSVarTypeEx.exe.config
+C:\Users\Calum\Documents\CSProjs\HFCSVarTypeEx\bin\Debug\HFCSVarTypeEx.exe
+C:\Users\Calum\Documents\CSProjs\HFCSVarTypeEx\bin\Debug\HFCSVarTypeEx.pdb
+C:\Users\Calum\Documents\CSProjs\HFCSVarTypeEx\obj\Debug\HFCSVarTypeEx.csproj.AssemblyReference.cache
+C:\Users\Calum\Documents\CSProjs\HFCSVarTypeEx\obj\Debug\HFCSVarTypeEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calum\Documents\CSProjs\HFCSVarTypeEx\obj\Debug\HFCSVarTypeEx.Form1.resources
+C:\Users\Calum\Documents\CSProjs\HFCSVarTypeEx\obj\Debug\HFCSVarTypeEx.Properties.Resources.resources
+C:\Users\Calum\Documents\CSProjs\HFCSVarTypeEx\obj\Debug\HFCSVarTypeEx.csproj.GenerateResource.cache
+C:\Users\Calum\Documents\CSProjs\HFCSVarTypeEx\obj\Debug\HFCSVarTypeEx.csproj.CoreCompileInputs.cache
+C:\Users\Calum\Documents\CSProjs\HFCSVarTypeEx\obj\Debug\HFCSVarTypeEx.exe
+C:\Users\Calum\Documents\CSProjs\HFCSVarTypeEx\obj\Debug\HFCSVarTypeEx.pdb

@@ -16,5 +16,13 @@ namespace HFCSVarTypeEx
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            decimal myDec = 10;
+            int myInt = (int)myDec;
+
+            MessageBox.Show("Value is" + myInt);
+        }
     }
 }
