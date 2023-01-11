@@ -19,12 +19,8 @@ namespace HFCSGuysEx
         public Form1()
         {
             InitializeComponent();
-            joe = new Guy();
-            joe.Name = "Joe";
-            joe.Cash = 50;
-            bob = new Guy();
-            bob.Name = "Bob";
-            bob.Cash = 50;
+            joe = new Guy() { Name = "Joe", Cash = 50};
+            bob = new Guy() { Name = "Bob", Cash = 100};
 
             UpdateForm();
         }
@@ -48,6 +44,20 @@ namespace HFCSGuysEx
         private void receive5Button_Click(object sender, EventArgs e)
         {
             bank += bob.GiveCash(5);
+            UpdateForm();
+        }
+
+        private void JoetoBob10_Click(object sender, EventArgs e)
+        {
+            joe.GiveCash(10);
+            bob.ReceiveCash(10);
+            UpdateForm();
+        }
+
+        private void BobtoJoe5_Click(object sender, EventArgs e)
+        {
+            bob.GiveCash(5);
+            joe.ReceiveCash(5);
             UpdateForm();
         }
     }

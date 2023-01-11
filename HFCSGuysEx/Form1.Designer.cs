@@ -33,6 +33,8 @@
             this.bankCashLabel = new System.Windows.Forms.Label();
             this.give10Button = new System.Windows.Forms.Button();
             this.receive5Button = new System.Windows.Forms.Button();
+            this.BobtoJoe5 = new System.Windows.Forms.Button();
+            this.JoetoBob10 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // joeNameLabel
@@ -79,11 +81,33 @@
             this.receive5Button.UseVisualStyleBackColor = true;
             this.receive5Button.Click += new System.EventHandler(this.receive5Button_Click);
             // 
+            // BobtoJoe5
+            // 
+            this.BobtoJoe5.Location = new System.Drawing.Point(187, 238);
+            this.BobtoJoe5.Name = "BobtoJoe5";
+            this.BobtoJoe5.Size = new System.Drawing.Size(148, 58);
+            this.BobtoJoe5.TabIndex = 6;
+            this.BobtoJoe5.Text = "Bob $gives 5 to Joe";
+            this.BobtoJoe5.UseVisualStyleBackColor = true;
+            this.BobtoJoe5.Click += new System.EventHandler(this.BobtoJoe5_Click);
+            // 
+            // JoetoBob10
+            // 
+            this.JoetoBob10.Location = new System.Drawing.Point(12, 238);
+            this.JoetoBob10.Name = "JoetoBob10";
+            this.JoetoBob10.Size = new System.Drawing.Size(148, 58);
+            this.JoetoBob10.TabIndex = 5;
+            this.JoetoBob10.Text = "Joe gives $10 to Bob";
+            this.JoetoBob10.UseVisualStyleBackColor = true;
+            this.JoetoBob10.Click += new System.EventHandler(this.JoetoBob10_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(347, 239);
+            this.ClientSize = new System.Drawing.Size(347, 308);
+            this.Controls.Add(this.BobtoJoe5);
+            this.Controls.Add(this.JoetoBob10);
             this.Controls.Add(this.receive5Button);
             this.Controls.Add(this.give10Button);
             this.Controls.Add(this.bankCashLabel);
@@ -105,6 +129,8 @@
         private System.Windows.Forms.Label bankCashLabel;
         private System.Windows.Forms.Button give10Button;
         private System.Windows.Forms.Button receive5Button;
+        private System.Windows.Forms.Button BobtoJoe5;
+        private System.Windows.Forms.Button JoetoBob10;
     }
 }
 
