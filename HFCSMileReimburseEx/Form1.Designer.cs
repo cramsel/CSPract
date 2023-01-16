@@ -63,6 +63,7 @@
             this.StartMilesCounter.Name = "StartMilesCounter";
             this.StartMilesCounter.Size = new System.Drawing.Size(120, 20);
             this.StartMilesCounter.TabIndex = 2;
+            this.StartMilesCounter.ValueChanged += new System.EventHandler(this.StartMilesCounter_ValueChanged);
             // 
             // EndMilesCounter
             // 
@@ -70,6 +71,7 @@
             this.EndMilesCounter.Name = "EndMilesCounter";
             this.EndMilesCounter.Size = new System.Drawing.Size(120, 20);
             this.EndMilesCounter.TabIndex = 3;
+            this.EndMilesCounter.ValueChanged += new System.EventHandler(this.EndMilesCounter_ValueChanged);
             // 
             // label1
             // 
@@ -86,9 +88,8 @@
             this.AmountOwedLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.AmountOwedLabel.Location = new System.Drawing.Point(214, 116);
             this.AmountOwedLabel.Name = "AmountOwedLabel";
-            this.AmountOwedLabel.Size = new System.Drawing.Size(57, 20);
+            this.AmountOwedLabel.Size = new System.Drawing.Size(0, 20);
             this.AmountOwedLabel.TabIndex = 5;
-            this.AmountOwedLabel.Text = "label2";
             // 
             // CalculateButton
             // 
@@ -98,6 +99,7 @@
             this.CalculateButton.TabIndex = 6;
             this.CalculateButton.Text = "Calculate";
             this.CalculateButton.UseVisualStyleBackColor = true;
+            this.CalculateButton.Click += new System.EventHandler(this.CalculateButton_Click);
             // 
             // Form1
             // 
