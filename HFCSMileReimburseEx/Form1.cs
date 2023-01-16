@@ -25,8 +25,14 @@ namespace HFCSMileReimburseEx
 
         private void CalculateButton_Click(object sender, EventArgs e)
         {
-            TotalMilesVal = EndMilesVal - StartMilesVal;
-            AmountOwedLabel.Text = (TotalMilesVal * MileValue).ToString();
+            if (StartMilesVal > EndMilesVal)
+            {
+                MessageBox.Show("Invalid Input; end must be greater than start");
+            } else
+            {
+                TotalMilesVal = EndMilesVal - StartMilesVal;
+                AmountOwedLabel.Text = (TotalMilesVal * MileValue).ToString();
+            }
         }
 
         private void StartMilesCounter_ValueChanged(object sender, EventArgs e)

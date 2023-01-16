@@ -60,6 +60,11 @@
             // StartMilesCounter
             // 
             this.StartMilesCounter.Location = new System.Drawing.Point(218, 29);
+            this.StartMilesCounter.Maximum = new decimal(new int[] {
+            999999,
+            0,
+            0,
+            0});
             this.StartMilesCounter.Name = "StartMilesCounter";
             this.StartMilesCounter.Size = new System.Drawing.Size(120, 20);
             this.StartMilesCounter.TabIndex = 2;
@@ -68,6 +73,11 @@
             // EndMilesCounter
             // 
             this.EndMilesCounter.Location = new System.Drawing.Point(218, 68);
+            this.EndMilesCounter.Maximum = new decimal(new int[] {
+            999999,
+            0,
+            0,
+            0});
             this.EndMilesCounter.Name = "EndMilesCounter";
             this.EndMilesCounter.Size = new System.Drawing.Size(120, 20);
             this.EndMilesCounter.TabIndex = 3;
