@@ -1,0 +1,11 @@
+C:\Users\Calum\Documents\CSProjs\HFCSElephantEx\bin\Debug\HFCSElephantEx.exe.config
+C:\Users\Calum\Documents\CSProjs\HFCSElephantEx\bin\Debug\HFCSElephantEx.exe
+C:\Users\Calum\Documents\CSProjs\HFCSElephantEx\bin\Debug\HFCSElephantEx.pdb
+C:\Users\Calum\Documents\CSProjs\HFCSElephantEx\obj\Debug\HFCSElephantEx.csproj.AssemblyReference.cache
+C:\Users\Calum\Documents\CSProjs\HFCSElephantEx\obj\Debug\HFCSElephantEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calum\Documents\CSProjs\HFCSElephantEx\obj\Debug\HFCSElephantEx.Form1.resources
+C:\Users\Calum\Documents\CSProjs\HFCSElephantEx\obj\Debug\HFCSElephantEx.Properties.Resources.resources
+C:\Users\Calum\Documents\CSProjs\HFCSElephantEx\obj\Debug\HFCSElephantEx.csproj.GenerateResource.cache
+C:\Users\Calum\Documents\CSProjs\HFCSElephantEx\obj\Debug\HFCSElephantEx.csproj.CoreCompileInputs.cache
+C:\Users\Calum\Documents\CSProjs\HFCSElephantEx\obj\Debug\HFCSElephantEx.exe
+C:\Users\Calum\Documents\CSProjs\HFCSElephantEx\obj\Debug\HFCSElephantEx.pdb

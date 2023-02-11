@@ -41,6 +41,7 @@
             this.LloydButton.TabIndex = 0;
             this.LloydButton.Text = "Lloyd";
             this.LloydButton.UseVisualStyleBackColor = true;
+            this.LloydButton.Click += new System.EventHandler(this.LloydButton_Click);
             // 
             // LuciaButton
             // 
@@ -50,6 +51,7 @@
             this.LuciaButton.TabIndex = 1;
             this.LuciaButton.Text = "Lucia";
             this.LuciaButton.UseVisualStyleBackColor = true;
+            this.LuciaButton.Click += new System.EventHandler(this.LuciaButton_Click);
             // 
             // SwapButton
             // 
@@ -59,6 +61,7 @@
             this.SwapButton.TabIndex = 2;
             this.SwapButton.Text = "Swap";
             this.SwapButton.UseVisualStyleBackColor = true;
+            this.SwapButton.Click += new System.EventHandler(this.SwapButton_Click);
             // 
             // Form1
             // 
