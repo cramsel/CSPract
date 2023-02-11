@@ -36,7 +36,12 @@ namespace HFCSElephantEx
 
         private void SwapButton_Click(object sender, EventArgs e)
         {
+            Elephant Holder;
+            Holder = Lloyd;
+            Lloyd = Lucina;
+            Lucina = Holder;
 
+            MessageBox.Show("Objects swapped");
         }
     }
 }
