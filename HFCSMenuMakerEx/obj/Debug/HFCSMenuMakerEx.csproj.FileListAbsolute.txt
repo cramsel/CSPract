@@ -1,0 +1,11 @@
+C:\Users\Calum\Documents\CSProjs\HFCSMenuMakerEx\bin\Debug\HFCSMenuMakerEx.exe.config
+C:\Users\Calum\Documents\CSProjs\HFCSMenuMakerEx\bin\Debug\HFCSMenuMakerEx.exe
+C:\Users\Calum\Documents\CSProjs\HFCSMenuMakerEx\bin\Debug\HFCSMenuMakerEx.pdb
+C:\Users\Calum\Documents\CSProjs\HFCSMenuMakerEx\obj\Debug\HFCSMenuMakerEx.csproj.AssemblyReference.cache
+C:\Users\Calum\Documents\CSProjs\HFCSMenuMakerEx\obj\Debug\HFCSMenuMakerEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calum\Documents\CSProjs\HFCSMenuMakerEx\obj\Debug\HFCSMenuMakerEx.Form1.resources
+C:\Users\Calum\Documents\CSProjs\HFCSMenuMakerEx\obj\Debug\HFCSMenuMakerEx.Properties.Resources.resources
+C:\Users\Calum\Documents\CSProjs\HFCSMenuMakerEx\obj\Debug\HFCSMenuMakerEx.csproj.GenerateResource.cache
+C:\Users\Calum\Documents\CSProjs\HFCSMenuMakerEx\obj\Debug\HFCSMenuMakerEx.csproj.CoreCompileInputs.cache
+C:\Users\Calum\Documents\CSProjs\HFCSMenuMakerEx\obj\Debug\HFCSMenuMakerEx.exe
+C:\Users\Calum\Documents\CSProjs\HFCSMenuMakerEx\obj\Debug\HFCSMenuMakerEx.pdb
