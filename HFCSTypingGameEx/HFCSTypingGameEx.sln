@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HFCSTypingGameEx", "HFCSTypingGameEx.csproj", "{8E3B15B0-EA01-4B77-B19B-63ABFCCE7576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E3B15B0-EA01-4B77-B19B-63ABFCCE7576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3B15B0-EA01-4B77-B19B-63ABFCCE7576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3B15B0-EA01-4B77-B19B-63ABFCCE7576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3B15B0-EA01-4B77-B19B-63ABFCCE7576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A7A2064-A3C9-4885-ACD4-CDE991936BDE}
+	EndGlobalSection
+EndGlobal
